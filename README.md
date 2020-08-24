@@ -6,7 +6,7 @@ An RPG that jest uses Jest for testing and puns for naming. A foray into TDD!
 ## Usage
 1. Clone the repo
 2. Run `npm -i` to install dependencies
-3. Run `npm start` to run the game. Follow the prompts to play!
+3. Run `node app` to run the game. Follow the prompts to play!
 
 ## Tests
 Run `npm test` to execute the Jest tests
